@@ -6,5 +6,4 @@ if username and password:
 else:
     print("sorry")
 
-
 print("unlock") if username and password else print("sorry")

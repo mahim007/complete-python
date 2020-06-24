@@ -1,5 +1,5 @@
 my_dict = {
-    'a': [1,2,3,4],
+    'a': [1, 2, 3, 4],
     'x': 'hello world',
     'c': True,
     'age': 22
