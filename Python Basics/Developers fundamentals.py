@@ -7,3 +7,5 @@
     # readability
     # predictability
     # don't repeat yourself / reusability
+
+# Test your assumptions
